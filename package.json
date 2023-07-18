@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Ashish15678/webCrawler/issues"
   },
-  "homepage": "https://github.com/Ashish15678/webCrawler#readme"
+  "homepage": "https://github.com/Ashish15678/webCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
 }
